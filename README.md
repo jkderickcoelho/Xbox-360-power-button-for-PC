@@ -38,8 +38,3 @@ If not done correctly, you will NOT be able to fit it through the 2 inch hole af
 
 ## 📜 License
 This project is licensed under the MIT License.
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
